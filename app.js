@@ -1,1 +1,1 @@
-cnsolo.log(E"Ejecutando el Sistema")
+cnsolo.log("Ejecutando el Sistema")
