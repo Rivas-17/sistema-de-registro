@@ -1,6 +1,17 @@
 cnsolo.log("Ejecutando el Sistema")
-// git pull: Sincroniza tu repositorio local con los cambios del repositorio remoto.
-// git status: Muestra el estado actual de tu proyecto y los cambios realizados.
-// git add: Agrega archivos o cambios al área de preparación para el próximo commit.
-// git commit: Guarda los cambios en tu repositorio local con un mensaje descriptivo.
-// git push: Envía tus commits locales al repositorio remoto en GitHub.
+
+/*1 - Para verificar los cambios realizados:
+    Utiliza el comando git status, sirve para listar todos los archivos que han sido modificados.
+
+  2 - Para agregar los cambios al repositorio local:
+    Para agregar los cambios realizados de una sola vez, es necesario usar git add . (git add y un punto) y, para agregar los cambios en algún archivo específico, usamos a git add nombre-del-archivo-modificado.
+
+  3 - Para guardar los cambios:
+    Utiliza el comando git commit, que sirve para capturar y guardar el estado actual del repositorio.
+
+  4 - Para enviar las modificaciones al repositorio remoto:
+    Utiliza el comando git push, que sirve para enviar las modificaciones guardadas en el directorio local para el repositorio remoto.
+    
+  5. Verificar los cambios dentro de un archivo a través del git diff en la consola y en GitHub;
+    
+  6. Aprendimos a restaurar archivos y el proyecto, volviendo a un estado anterior a través de git restore;*/
